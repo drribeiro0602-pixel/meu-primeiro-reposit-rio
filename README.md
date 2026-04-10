@@ -4,3 +4,4 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no Centro Univ
 Tenho grande interesse pela área de tecnologia, especialmente em desenvolvimento de software, e estou sempre buscando aprender novas ferramentas e aprimorar minhas habilidades.
 Estou em constante evolução, construindo projetos e adquirindo experiência prática para me tornar um profissional cada vez mais completo na área de TI.
 Aqui no meu GitHub você encontrará alguns dos meus estudos, projetos e experimentos durante minha jornada na programação.
+Feita na aula do dia 26/03/26.
